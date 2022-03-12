@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadForm", "LoadForm\LoadForm.csproj", "{9E01931D-F896-48FD-B18E-5825BB26B747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E01931D-F896-48FD-B18E-5825BB26B747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E01931D-F896-48FD-B18E-5825BB26B747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E01931D-F896-48FD-B18E-5825BB26B747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E01931D-F896-48FD-B18E-5825BB26B747}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84A10DA0-96D2-4620-ACE6-384A91412136}
+	EndGlobalSection
+EndGlobal
